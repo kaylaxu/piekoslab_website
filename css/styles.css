@@ -29,8 +29,8 @@
 }
 
 .team profile_img {
-    width: 350px;
-    height: 350px;
+    width: 250;
+    height: 250;
     border-radius: 12px;
     object-fit: cover; 
 }

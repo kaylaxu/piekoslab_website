@@ -1,4 +1,3 @@
-/* Add space around the dividing lines */
 .team hr {
     margin-top: 50px;
     margin-bottom: 40px;
@@ -16,23 +15,22 @@
     margin-top: 0; 
 }
 
-/* Your existing CSS (fixed a minor typo with an extra period before .profile) */
-.profile {
+.team profile {
     display: flex; 
     flex-direction: row; 
     justify-content: left; 
     align-items: center;
     margin-top: 10px;
-    margin-bottom: 30px; /* Increased slightly to add breathing room between individual profiles */
+    margin-bottom: 30px; 
 }
 
-.profile_text {
-    margin-left: 20px; /* Increased slightly so text doesn't hug the image */
+.team profile_text {
+    margin-left: 20px; 
 }
 
-.profile_img {
-    width: 250px;
-    height: 250px;
+.team profile_img {
+    width: 350px;
+    height: 350px;
     border-radius: 12px;
-    object-fit: cover; /* Prevents rectangular images from squishing into the 250x250 square */
+    object-fit: cover; 
 }

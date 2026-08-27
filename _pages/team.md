@@ -9,12 +9,18 @@ header:
   overlay_image: /assets/images/3600.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
+heading: 
+  - title: 'Principal Investigator'
+
 person:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "Samantha N. Piekos, Ph.D."
-    title: "Samantha N. Piekos, Ph.D."
+    alt: "Dr. Samantha N. Piekos, Ph.D."
+    title: "Dr. Samantha N. Piekos, Ph.D."
     excerpt: 'Principal Investigator'
     excerpt: 'test'
+
+heading: 
+  - title: 'Current Members'
 
 person:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -33,6 +39,9 @@ person:
     alt: "Kayson Yao"
     title: "Kayson Yao"
     excerpt: "Master's Student, Bioengineering"
+
+heading: 
+  - title: 'Past Members'
 
 person:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg

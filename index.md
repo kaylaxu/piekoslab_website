@@ -9,8 +9,7 @@ header:
   overlay_image: /assets/images/3600.jpg
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: " Womens's and reproductive health systems biology research at the University of Pennsylvania"
-intro: 
-  - excerpt: '[recent news?]'
+
 heading: 
   - title: 'Research Areas'
 feature_row:

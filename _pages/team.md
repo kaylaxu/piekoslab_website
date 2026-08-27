@@ -9,8 +9,8 @@ header:
   overlay_image: /assets/images/3600.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
-heading1: 
-  - title: 'Principal Investigator'
+heading1:
+  title: "Principal Investigator"
 
 piekos:
   - image_path: /assets/images/sampiekos.jpeg 
@@ -27,18 +27,24 @@ trocle:
   - image_path: /assets/images/ashley.jpg
     alt: "Ashley Trocle"
     title: "Ashley Trocle"
+    width: "250"
+    height: "250"
     excerpt: 'PhD Candidate, Graduate Group in Epidemiology and Biostatistics'
 
 xu:
   - image_path: /assets/images/kaylaxu.jpeg
     alt: "Kayla Xu"
     title: "Kayla Xu"
+    width: "250"
+    height: "250"
     excerpt: 'Ph.D. Student, Genomics and Computational Biology'
 
 yao:
   - image_path: /assets/images/empty.png
     alt: "Kayson Yao"
     title: "Kayson Yao"
+    width: "250"
+    height: "250"
     excerpt: "Master's Student, Bioengineering"
 
 heading3: 
@@ -48,25 +54,29 @@ ko:
   - image_path: /assets/images/jennko.jpg
     alt: "Jenn Ko"
     title: "Jenn Ko"
+    width: "250"
+    height: "250"
     excerpt: 'Ph.D. Candidate, Graduate Group in Epidemiology and Biostatistics'
 
 sundar:
   - image_path: /assets/images/anushasundar.jpeg
     alt: "Anusha Sundar"
     title: "Anusah Sundar"
+    width: "250"
+    height: "250"
     excerpt: 'Undergraduate, Biophysics'
 
 ---
-
+{% include feature_row id="heading1" type="left" %}
 {% include feature_row id="piekos" type="left" %}
+
+{% include feature_row id="heading2" type="left" %}
 {% include feature_row id="trocle" type="left" %}
-
 {% include feature_row id="xu" type="left" %}
+{% include feature_row id="yao" type="left" %}
 
-{% include feature_row id="kayson" type="left" %}
-
+{% include feature_row id="heading3" type="left" %}
 {% include feature_row id="ko" type="left" %}
-
 {% include feature_row id="sundar" type="left" %}
 
 

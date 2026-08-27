@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
 heading1:
-  title: "Principal Investigator"
+  - title: "Principal Investigator"
 
 piekos:
   - image_path: /assets/images/sampiekos.jpeg 
@@ -80,3 +80,6 @@ sundar:
 {% include feature_row id="sundar" type="left" %}
 
 
+<div id=heading>
+  <p>Principal Investigator</p>
+</div>

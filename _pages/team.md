@@ -9,48 +9,48 @@ header:
   overlay_image: /assets/images/3600.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
-heading: 
+heading1: 
   - title: 'Principal Investigator'
 
 piekos:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/sampiekos.jpeg
     alt: "Dr. Samantha N. Piekos, Ph.D."
     title: "Dr. Samantha N. Piekos, Ph.D."
     excerpt: 'Principal Investigator'
     excerpt: 'test'
 
-heading: 
+heading2: 
   - title: 'Current Members'
 
 trocle:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/ashley.jpg
     alt: "Ashley Trocle"
     title: "Ashley Trocle"
     excerpt: 'PhD Candidate, Graduate Group in Epidemiology and Biostatistics'
 
 xu:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/kaylaxu.jpeg
     alt: "Kayla Xu"
     title: "Kayla Xu"
     excerpt: 'Ph.D. Student, Genomics and Computational Biology'
 
 yao:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/empty.png
     alt: "Kayson Yao"
     title: "Kayson Yao"
     excerpt: "Master's Student, Bioengineering"
 
-heading: 
+heading3: 
   - title: 'Past Members'
 
 ko:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/jennko.jpg
     alt: "Jenn Ko"
     title: "Jenn Ko"
     excerpt: 'Ph.D. Candidate, Graduate Group in Epidemiology and Biostatistics'
 
 sundar:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/anushasundar.jpeg
     alt: "Anusha Sundar"
     title: "Anusah Sundar"
     excerpt: 'Undergraduate, Biophysics'

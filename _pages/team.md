@@ -13,11 +13,12 @@ heading1:
   - title: 'Principal Investigator'
 
 piekos:
-  - image_path: /assets/images/sampiekos.jpeg
+  - image_path: /assets/images/sampiekos.jpeg 
     alt: "Dr. Samantha N. Piekos, Ph.D."
     title: "Dr. Samantha N. Piekos, Ph.D."
+    width: "250"
+    height: "250"
     excerpt: 'Principal Investigator'
-    excerpt: 'test'
 
 heading2: 
   - title: 'Current Members'

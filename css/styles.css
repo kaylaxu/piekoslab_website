@@ -1,11 +1,18 @@
-.profile_img {
-    width: 250px;
-    height: 250px
-}
-
 .profile {
     display:flex; 
     flex-direction: row; 
     justify-content: left; 
-    align-items: center
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.profile_text {
+    padding-left: 10px
+}
+
+.profile_img {
+    width: 250px;
+    height: 250px;
+    border-radius: 12px
 }

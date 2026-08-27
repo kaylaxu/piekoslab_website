@@ -67,15 +67,15 @@ sundar:
     excerpt: 'Undergraduate, Biophysics'
 
 ---
-{% include feature_row id="heading1" type="left" %}
+{% include heading id="heading1" %}
 {% include feature_row id="piekos" type="left" %}
 
-{% include feature_row id="heading2" type="left" %}
+{% include heading id="heading2"%}
 {% include feature_row id="trocle" type="left" %}
 {% include feature_row id="xu" type="left" %}
 {% include feature_row id="yao" type="left" %}
 
-{% include feature_row id="heading3" type="left" %}
+{% include heading id="heading3"%}
 {% include feature_row id="ko" type="left" %}
 {% include feature_row id="sundar" type="left" %}
 

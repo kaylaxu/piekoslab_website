@@ -1,0 +1,24 @@
+{% assign locale = include.locale | default: site.locale %}
+{% if include.id %}
+  {% assign heading = page[include.id] %}
+{% else %}
+  {% assign heading = page.feature_row %}
+{% endif %}
+
+<div class="heading__wrapper">
+
+  {% for f in feature_row %}
+    <div class="heading__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="item">
+         
+        <div class="item-body">
+          {% if f.title %}
+            <h2 class="item-title">{{ f.title }}</h2>
+          {% endif %}
+
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
